@@ -77,13 +77,3 @@ MessengerApp/
 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss.
-📄 License
-
-MIT
-
-
----
-
-Once you share your **GitHub username**, I’ll upload the full project with this README included. Or I can help you push it from your system — whichever you prefer.
-
-You said:
